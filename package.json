@@ -1,6 +1,6 @@
 {
-  "name": "bolt-expo-starter",
-  "main": "expo-router/entry",
+  "name": "TSA-expo-starter",
+  "main": "TSA-router/entry",
   "version": "1.0.0",
   "private": true,
   "scripts": {
